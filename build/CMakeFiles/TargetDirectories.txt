@@ -1,0 +1,7 @@
+/Users/zhangxu/Documents/workplace/cpp/bglevels/cpp-project-template/build/CMakeFiles/doxygen.dir
+/Users/zhangxu/Documents/workplace/cpp/bglevels/cpp-project-template/build/test/CMakeFiles/test.dir
+/Users/zhangxu/Documents/workplace/cpp/bglevels/cpp-project-template/build/CMakeFiles/documentation.dir
+/Users/zhangxu/Documents/workplace/cpp/bglevels/cpp-project-template/build/test/CMakeFiles/check.dir
+/Users/zhangxu/Documents/workplace/cpp/bglevels/cpp-project-template/build/CMakeFiles/docs.dir
+/Users/zhangxu/Documents/workplace/cpp/bglevels/cpp-project-template/build/test/CMakeFiles/projectname-unittests.dir
+/Users/zhangxu/Documents/workplace/cpp/bglevels/cpp-project-template/build/src/CMakeFiles/projectname.dir
